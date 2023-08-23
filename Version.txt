@@ -1,0 +1,1 @@
+1.0.0.6;https://github.com/Taselhoff/PROZA2_Updater/blob/master/updater_example_setup_1.0.1.exe?raw=true
