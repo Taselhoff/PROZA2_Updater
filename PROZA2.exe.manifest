@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="PROZA2.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="amd64" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="PROZA2" version="1.0.0.6" language="neutral" processorArchitecture="amd64" />
+    <assemblyIdentity name="PROZA2" version="1.0.0.9" language="neutral" processorArchitecture="amd64" />
     <commandLine file="PROZA2.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -114,14 +114,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PROZA2.exe" size="514560">
-      <assemblyIdentity name="PROZA2" version="1.0.0.6" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PROZA2.exe" size="519680">
+      <assemblyIdentity name="PROZA2" version="1.0.0.9" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Z7NoqrxsdP2v5Eqv+ZCA2YsQM5NKAc+c/d3o5M3Osx4=</dsig:DigestValue>
+        <dsig:DigestValue>J1ZMlc2QgdV/leRHHSfTIOtt/0Pi/dR326NcE4b2i24=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
